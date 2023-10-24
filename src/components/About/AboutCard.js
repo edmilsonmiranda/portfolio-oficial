@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Olá a todos, sou <span className="purple">Edmilson Miranda, </span>
             tenho <span className="purple">27 anos</span> e moro em <span className="purple"> Fortaleza-CE.</span>
-            <br /> Sou um Desenvolvedor Front-End/WebDesigner
-            e estudante na Digital College no curso de Desenvolvedor FullStack.
-            <br />
+            <br /> Sou um <span className="purple">Desenvolvedor Front-End/WebDesigner </span>
+            com formação no curso da <span className="purple">Digital College</span> de <span className="purple">Desenvolvedor FullStack</span>.
+            <br /> 
           
             <br />
             <br />
@@ -26,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Viagens
             </li>
             <li className="about-activity">
-              <ImPointRight /> Festas
+              <ImPointRight /> Filmes / Séries / Animes
             </li>
           </ul>
           
