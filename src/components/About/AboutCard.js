@@ -16,7 +16,7 @@ function AboutCard() {
           
             <br />
             <br />
-            Alguns dos meus hobbies são 
+            Alguns dos meus hobbies são: 
           </p>
           <ul>
             <li className="about-activity">
